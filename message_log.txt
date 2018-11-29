@@ -1,0 +1,1 @@
+Para revisar los message logs por cada costumer se tiene que cambiar el customer en securebeta -> ir a message reports y revisar mensajes que se hayan enviado en un determinado numero de dias.
